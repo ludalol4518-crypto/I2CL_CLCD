@@ -289,7 +289,8 @@ https://github.com/user-attachments/assets/c30622db-4402-4fff-8dce-b45f22dbd376
 
 이모티콘 
 
-![Uploading 이모티콘.jpg…]()
+![이모티콘](https://github.com/user-attachments/assets/2719ca99-f53d-4e5f-8882-d510acbbae86)
+
 
 
 
