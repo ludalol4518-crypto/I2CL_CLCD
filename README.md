@@ -287,5 +287,10 @@ HELLOW WORLD
 
 https://github.com/user-attachments/assets/c30622db-4402-4fff-8dce-b45f22dbd376
 
+이모티콘 
+
+![Uploading 이모티콘.jpg…]()
+
+
 
 
