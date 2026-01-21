@@ -283,3 +283,9 @@ HELLOW WORLD
 
 ![HELLOW WORLD](https://github.com/user-attachments/assets/84c1ffce-29e9-4269-aa6e-e0c010f16108)
 
+온도측정 
+
+https://github.com/user-attachments/assets/c30622db-4402-4fff-8dce-b45f22dbd376
+
+
+
